@@ -12,7 +12,7 @@ Additionally, it provides a cleanup option to remove the established persistence
 
 ## Usage
 
-1. **Compile the Go script:** `go build main.go -o usp`
+1. **Compile the Go script:** `go build -o usp`
 
 2. **Run the script with root privileges (sudo):** `sudo ./usp`
 
