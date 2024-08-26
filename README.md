@@ -1,25 +1,7 @@
 # USP
 	                                                                                     
-```
-                                                 .,;,.                               
-                                               'KMMMMM0.                             
-                                   ,oOXNWWWWWWWMMMMMMMMX                             
-                                 cXMWOl::::::::xMMMMMMMo                             
-                               cXMWd.           'oO0ko.                              
-      .;lll:'                cXMWd.                                                  
-   .oNMMMMMMMWx.           lNMWd.                                         ,          
-  .NMMMMMMMMMMMW:       .lNMNo.   USP x udev: Persistance is the key     .MWOl.      
-  OMMMMMMMMMMMMMWOOOOOOKWMMMKOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO0MMMMMNx:.  
-  kMMMMMMMMMMMMMNxxxxxxxxxxxxxxxxxONMMMXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxOMMMMMKd,   
-  .XMMMMMMMMMMMW;                   ,0MMO'                               .MNx:.      
-    cKMMMMMMMNd.                      'OMMO,                              .          
-      .,:c:,.                           ,OMM0'                                       
-                                          'OMM0,          dXXXXXXXK.                 
-                                            'OMMKxlllllllcXMMMMMMMM.                 
-                                              .:x0XXXXXXXXWMMMMMMMM.                 
-                                                          OMMMMMMMM.                 
-                                                          .,,,,,,,,          
-```
+![image](https://github.com/user-attachments/assets/ae04ddd3-9a81-4e27-be60-8d4e98d4e605)
+
 ## Features
 This Go program establishes persistence on a Linux system by creating a udev rule that triggers the execution of a specified payload (binary or script). It offers two trigger options:
 
